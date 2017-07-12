@@ -8,5 +8,6 @@ public class One {
 	}
 	public static void main(String[] args) {
 		sum(1,2);
+		sum(2,3);
 	}
 }
